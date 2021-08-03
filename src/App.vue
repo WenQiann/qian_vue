@@ -3,7 +3,6 @@
     <Header class="header"></Header>
     <!-- <Home class="home"></Home> -->
     <router-view class="home"></router-view>
-    <!-- <router-view /> -->
     <Footer class="footer"></Footer>
     
   </div>
